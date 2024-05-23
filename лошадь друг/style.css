@@ -1,0 +1,67 @@
+header{
+    background: #0080008a;
+    color: white;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    
+
+}
+body{
+    background: #ffcc8033;
+}
+.cartinka{
+    height: 50px;
+}
+.nomerok{
+    display: flex;
+    justify-content: center;
+}
+.col-md-4-1{
+    display: flex;
+    align-items: center;
+    margin: 0px 10px 0px 0px;
+    background: #FFEB3B;
+    width: 15%;
+    height: 44px;
+    margin-left: 25%;
+}
+.col-md-4-{
+    display: flex;
+    margin: 0px 10px 0px 0px;
+    background: #FFEB3B;
+    width: 15%;
+    height: 44px;
+}
+.col-md-4{
+    margin: 45px 0px 20px 0px;
+}
+
+.kartinki{
+    height: 50%;
+    width: 60%;
+    margin-left: 70px;
+}
+.ydalitt{
+    height: 70px;
+    width: 16%;
+    background: red;
+}
+
+.dobavit{
+    background: #2cff2ccf;
+    height: 70px;
+    width: 20%;
+    margin-left: 34%;
+}
+
+.background {
+    background-image: url("image/forest.png");
+    background-repeat: repeat-x;
+    background-size: contain;
+    width: 100%;
+    height: 200px;
+  }
+
+
+
